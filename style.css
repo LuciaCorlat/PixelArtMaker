@@ -1,0 +1,76 @@
+h1 {
+    font-family: Tangerine;
+    font-size: 70px;
+    margin: 0.2em;
+    text-shadow: 4px 4px 4px rgba(48, 3, 3, 0.781);
+    text-align: right;
+} 
+
+body {
+    text-align: center;
+    background-image: url("https://vignette.wikia.nocookie.net/animal-jam-clans-1/images/9/95/Tumblr_static_2hdtcvchprk0okk4w4ksgsoos.png/revision/latest?cb=20170901185158"), url("http://www.photos-public-domain.com/wp-content/uploads/2011/02/pink-leather-texture.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color: #883deb9c;
+}
+
+.box {
+    border: 1px solid rgba(231, 113, 192, 0.521);
+    width: 500px;
+    margin: 20px;
+    float: right;
+    background-color: rgba(231, 113, 192, 0.527);
+    box-shadow: 4px 4px 4px rgba(48, 3, 3, 0.781);
+}
+
+.design {
+    border: 1px solid rgba(63, 27, 51, 0.685);
+    width: 300px;
+    margin: 50px 60px 50px 240px;
+    background-color: rgba(231, 113, 192, 0.521);
+    box-shadow: 4px 4px 4px rgba(48, 3, 3, 0.781);
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px rgba(48, 3, 3, 0.781);
+    color: #52042f;
+    margin: 1em 0 0.25em;
+    margin-top: 0.5em;
+}
+
+
+h3 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px rgba(48, 3, 3, 0.781);
+    color: #52042f;
+    margin:auto;
+}
+
+p {
+    font-family: 'Calibri', 'Times New Roman';
+    text-shadow: 4px 4px 4px rgba(48, 3, 3, 0.781);
+    color: #35031f;
+    font-size: 14px;
+
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    border:1px solid black;
+    margin:  auto;
+}
+
+td {
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+}
